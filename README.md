@@ -10,7 +10,7 @@ Supported airports: JFK, LAX, IAD, MDW</br>
 
 out.csv - dataset</br>
 PROJ.py - generate prediction model<br/>
-CheckMyWaitTime.py - Main program to check for etimated wait time</br>
+CheckMyWaitTime.py - Main program to check for estimated wait time</br>
 finalized_model_air.joblib - prediction model</br>
 holidays.xls - holiday dated for Holiday time column </br>
-CSVCLEANER.py - cleans csv files from immposible data
+CSVCLEANER.py - cleans csv files from false data
